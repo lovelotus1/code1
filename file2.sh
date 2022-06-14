@@ -1,4 +1,4 @@
-#!/bin/bash
+
 clear
 echo "Enter No : "
 read no
